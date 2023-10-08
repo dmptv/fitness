@@ -12,12 +12,12 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: MyHomePageExample());
+    // return MaterialApp(home: MyHomePageExample());
 
-    // MaterialApp(
-    //   debugShowCheckedModeBanner: false,
-    //   theme: ThemeData(fontFamily: 'Poppins'),
-    //   home: HomePage(),
-    // );
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(fontFamily: 'Poppins'),
+      home: HomePage(),
+    );
   }
 }
