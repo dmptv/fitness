@@ -1,5 +1,6 @@
 import 'package:fitness/pages/home.dart';
 import 'package:flutter/material.dart';
+import 'package:fitness/pages/my_home_page_example.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,10 +12,12 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(fontFamily: 'Poppins'),
-      home: HomePage(),
-    );
+    return MaterialApp(home: MyHomePageExample());
+
+    // MaterialApp(
+    //   debugShowCheckedModeBanner: false,
+    //   theme: ThemeData(fontFamily: 'Poppins'),
+    //   home: HomePage(),
+    // );
   }
 }
