@@ -16,6 +16,7 @@ class HomePage extends StatelessWidget {
           _searchField(),
           SizedBox(height: 40),
           Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Padding(
                 padding: const EdgeInsets.only(left: 20),
@@ -25,8 +26,13 @@ class HomePage extends StatelessWidget {
                   color: Colors.black,
                   fontSize: 18,
                   fontWeight: FontWeight.w600
+                  ),
                 ),
-                          ),
+              ),
+              SizedBox(height: 15,),
+              Container(
+                height: 150,
+                color: Colors.green,
               )
             ],
           )
