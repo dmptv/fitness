@@ -11,7 +11,7 @@ This Flutter application showcases a custom SearchBar, horizontal ListView, vert
 
 - **Vertical ListView**: A traditional vertical ListView is used to display lists of items in a straightforward and user-friendly manner.
 
-- **ScrollView**: The app uses a ScrollView to enable smooth and responsive scrolling through content, ensuring a pleasant user experience.
+- **ScrollView**: The app uses a ListView' ScrollView to enable smooth and responsive scrolling through content, ensuring a pleasant user experience.
 
 - **GestureDetector**: Incorporates GestureDetector for detecting user gestures, allowing for interactive elements and touch-based interactions.
 
