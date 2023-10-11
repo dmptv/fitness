@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:fitness/models/category_model.dart';
 import 'package:fitness/models/diet_model.dart';
 import 'package:fitness/models/popular_model.dart';
@@ -102,7 +104,9 @@ class _HomePageState extends State<HomePage> {
                         ],
                       ),
                       GestureDetector(
-                        onTap: (){},
+                        onTap: (){
+                          print('Kanat----------');
+                        },
                         child: SvgPicture.asset(
                           'assets/icons/button.svg',
                           width: 30,
