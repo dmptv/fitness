@@ -26,3 +26,11 @@ This Flutter application showcases a custom SearchBar, horizontal ListView, vert
 
    ```bash
    git clone https://github.com/dmptv/fitness.git
+
+   License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Thanks to the Flutter community for providing resources and inspiration for this project.
+Special thanks to Author Name for their valuable contributions.
+Enjoy exploring our Flutter application!
