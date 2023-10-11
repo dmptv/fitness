@@ -21,8 +21,6 @@ This Flutter application showcases a custom SearchBar, horizontal ListView, vert
 <img src="https://user-images.githubusercontent.com/17449669/274194103-5f2c655f-f1a5-4508-b6c1-ba1e7ba72934.png" width="129" height="280">
 <img src="https://user-images.githubusercontent.com/17449669/274194126-a08a2dbb-fc09-4a46-9f62-e2fbc0b93e24.png" width="129" height="280">
 
-[![Screenshot 1](https://user-images.githubusercontent.com/17449669/274194103-5f2c655f-f1a5-4508-b6c1-ba1e7ba72934.png)](https://user-images.githubusercontent.com/17449669/274194103-5f2c655f-f1a5-4508-b6c1-ba1e7ba72934.png)
-[![Screenshot 2](https://user-images.githubusercontent.com/17449669/274194126-a08a2dbb-fc09-4a46-9f62-e2fbc0b93e24.png)](https://user-images.githubusercontent.com/17449669/274194126-a08a2dbb-fc09-4a46-9f62-e2fbc0b93e24.png)
 
 
 
