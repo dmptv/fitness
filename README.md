@@ -25,4 +25,4 @@ This Flutter application showcases a custom SearchBar, horizontal ListView, vert
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-flutter-app.git
+   git clone https://github.com/dmptv/fitness.git
