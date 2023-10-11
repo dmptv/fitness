@@ -14,13 +14,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // return MaterialApp(home: MyHomePageExample());
-    return MaterialApp(home: SeparatedListViewExample());
+    // return MaterialApp(home: SeparatedListViewExample());
 
-  //   return MaterialApp(
-  //     debugShowCheckedModeBanner: false,
-  //     theme: ThemeData(fontFamily: 'Poppins'),
-  //     home: HomePage(),
-  //   );
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(fontFamily: 'Poppins'),
+      home: HomePage(),
+    );
 
   }
 }
